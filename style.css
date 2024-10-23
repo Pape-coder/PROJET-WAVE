@@ -1,0 +1,60 @@
+.navbar{
+    padding: 5px 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0%;
+    z-index: 999;
+    background-color: rgb(255, 255, 255);
+
+}
+.l {
+    height: 10px;
+    width: 15px; 
+    border-radius: 30%;
+}
+ul li{
+    display: inline;
+    
+}
+ .IMAGEWAVE img{
+    height: 50px;
+    border-radius: 15%;
+}
+ h1{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 720px;
+ }
+.surnav{
+    background-color: rgba(255, 68, 0, 0.801);
+    color: rgb(255, 255, 255);
+}
+h3{
+    font-size: 15px;
+}
+.surnav{
+    padding: 5px;
+    margin-inline: -10px;
+}
+.wave img{ 
+    direction: rtl;
+    width: 1470px ;
+    height: 600px ;
+}
+.wave img{
+    min-width: 100%;
+    
+}
+ .lien{
+        color: #ffffff;
+}
+
+.titre h1{
+    font-size: 100px;
+}
+ul li .un{
+    display: blox 
+    left : 10px;
+}
